@@ -1,6 +1,6 @@
-import MyContactForm from './components/MyContactForm/MyContactForm';
-import MyContactList from './components/ContactList/ContactList';
-import MyContactsFilter from './components/MyContactsFilter/MyContactsFilter';
+import MyContactForm from '../components/MyContactForm/MyContactForm';
+import MyContactList from '../components/ContactList/ContactList';
+import MyContactsFilter from '../components/MyContactsFilter/MyContactsFilter';
 
 import css from './MyContacts.module.css';
 
